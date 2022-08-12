@@ -1,1 +1,1 @@
-# Calculator_on_C
+# This is a simple calculator made on C
