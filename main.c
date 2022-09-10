@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
 	char s[10]; // variable for check what type has op
 	int op; // main variable
 	
-	// only main cycle
+	// only main loop
 	do {
 		// interface
 		printf("\t\tCalculator\n");
